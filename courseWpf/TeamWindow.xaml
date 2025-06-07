@@ -1,0 +1,22 @@
+﻿<Window x:Class="courseWpf.TeamWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:courseWpf"
+        mc:Ignorable="d"
+        Title="TeamWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="TeamDG" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,0,504,262"/>
+        <Label Content="Додати команду" HorizontalAlignment="Left" Margin="624,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="IdAdd" HorizontalAlignment="Left" Margin="624,53,0,0" TextWrapping="Wrap" Text="Введіть id команди" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="IdOdjectAdd" HorizontalAlignment="Left" Margin="624,86,0,0" TextWrapping="Wrap" Text="Введіть id об'єкта" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="TypeOfTeamSelector" HorizontalAlignment="Left" Margin="624,119,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="AddTeamButton" Content="Додати команду" HorizontalAlignment="Left" Margin="624,163,0,0" VerticalAlignment="Top" Width="120" Height="34" Click="AddTeamButton_Click"/>
+        <Label Content="Видалити команду" HorizontalAlignment="Left" Margin="386,10,0,0" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="IdDelete" HorizontalAlignment="Left" Margin="386,53,0,0" TextWrapping="Wrap" Text="Введіть id команди" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="DeleteTeamButton" Content="Видалити команду" HorizontalAlignment="Left" Margin="386,95,0,0" VerticalAlignment="Top" Height="34" Width="120" Click="DeleteTeamButton_Click"/>
+        <Button x:Name="ExitButton" Content="У меню" HorizontalAlignment="Left" Margin="624,354,0,0" VerticalAlignment="Top" Width="120" Height="34" Click="ExitButton_Click"/>
+
+    </Grid>
+</Window>

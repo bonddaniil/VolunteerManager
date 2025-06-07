@@ -1,0 +1,18 @@
+﻿<Window x:Class="courseWpf.DoVolunteerJobWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:courseWpf"
+        mc:Ignorable="d"
+        Title="DoVolunteerJobWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="TeamIds" HorizontalAlignment="Left" Margin="234,66,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="TypeOfWork" HorizontalAlignment="Left" Margin="451,66,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="BigRedButton" Content="Волонтеримо!" HorizontalAlignment="Center" Margin="0,112,0,0" VerticalAlignment="Top" Width="108" Height="41" Click="BigRedButton_Click"/>
+        <DataGrid x:Name="ObjectDG" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,174,0,92"/>
+        <Button x:Name="ToMenu" Content="У меню" HorizontalAlignment="Left" Margin="660,367,0,0" VerticalAlignment="Top" Height="41" Width="108" Click="ToMenu_Click"/>
+        <DataGrid x:Name="TeamDG" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,0,586,271"/>
+
+    </Grid>
+</Window>

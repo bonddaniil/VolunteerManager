@@ -1,0 +1,17 @@
+﻿<Window x:Class="courseWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:courseWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="VolunteerButton" Content="Перейти до волонтерів" HorizontalAlignment="Left" Margin="315,257,0,0" VerticalAlignment="Top" Height="47" Width="142" Click="VolunteerButton_Click"/>
+        <Button x:Name="ExitButton" Content="Вийти з додатку" HorizontalAlignment="Left" Margin="315,342,0,0" VerticalAlignment="Top" Width="142" Height="47" Click="ExitButton_Click"/>
+        <Button x:Name="TeamButton" Content="Перейти до команд" HorizontalAlignment="Left" Margin="315,189,0,0" VerticalAlignment="Top" Height="47" Width="142" Click="TeamButton_Click"/>
+        <Button x:Name="ObjectButton" Content="Перейти до об'єктів" HorizontalAlignment="Left" Margin="315,119,0,0" VerticalAlignment="Top" Width="142" Height="47" Click="ObjectButton_Click"/>
+        <Button x:Name="VolunteerJobButton" Content="Волонтерська робота" HorizontalAlignment="Left" Margin="315,43,0,0" VerticalAlignment="Top" Width="142" Height="47" Click="VolunteerJobButton_Click"/>
+
+    </Grid>
+</Window>

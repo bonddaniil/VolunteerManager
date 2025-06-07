@@ -1,0 +1,25 @@
+﻿<Window x:Class="courseWpf.VolunteerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:courseWpf"
+        mc:Ignorable="d"
+        Title="VolunteerWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="VolunteerDG" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,10,411,10"/>
+        <TextBox x:Name="IDAdd" HorizontalAlignment="Left" Margin="623,58,0,0" TextWrapping="Wrap" Text="Введіть ID Волонтера" VerticalAlignment="Top" Width="156"/>
+        <TextBox x:Name="NameAdd" HorizontalAlignment="Left" Margin="623,97,0,0" TextWrapping="Wrap" Text="Введіть ім'я" VerticalAlignment="Top" Width="156"/>
+        <TextBox x:Name="SurnameAdd" HorizontalAlignment="Left" Margin="623,132,0,0" TextWrapping="Wrap" Text="Введіть прізвище" VerticalAlignment="Top" Width="156" RenderTransformOrigin="0.517,0.643"/>
+        <TextBox x:Name="TeamIdAdd" HorizontalAlignment="Left" Margin="623,172,0,0" TextWrapping="Wrap" Text="Введіть Id команди" VerticalAlignment="Top" Width="156"/>
+        <Button x:Name="AddVolunteerButton" Content="Додати волонтера" HorizontalAlignment="Left" Margin="623,246,0,0" VerticalAlignment="Top" Width="156" Height="28" Click="AddVolunteerButton_Click"/>
+        <ComboBox x:Name="ProfessionComboBox" HorizontalAlignment="Left" Margin="623,0,0,0" VerticalAlignment="Center" Width="156"/>
+        <TextBox x:Name="IdDelete" HorizontalAlignment="Left" Margin="416,58,0,0" TextWrapping="Wrap" Text="Введіть id волонтера" VerticalAlignment="Top" Width="133"/>
+        <Button x:Name="DeleteVolunteerButton" Content="Видалити волонтера" HorizontalAlignment="Left" Margin="416,96,0,0" VerticalAlignment="Top" Width="133" Click="DeleteVolunteerButton_Click"/>
+        <Label Content="Видалити волонтера" HorizontalAlignment="Left" Margin="416,27,0,0" VerticalAlignment="Top" Height="26"/>
+        <Label Content="Додати волонтера" HorizontalAlignment="Left" Margin="623,27,0,0" VerticalAlignment="Top" Width="156"/>
+        <Button x:Name="ExitButton" Content="У меню" HorizontalAlignment="Left" Margin="623,354,0,0" VerticalAlignment="Top" Width="156" Height="40" Click="ExitButton_Click"/>
+
+
+    </Grid>
+</Window>

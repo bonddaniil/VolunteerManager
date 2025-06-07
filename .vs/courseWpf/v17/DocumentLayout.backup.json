@@ -1,0 +1,720 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\coursewpf\\coursewpf\\fabricteam\\standartteamcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\fabricteam\\standartteamcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\fabricteam\\standartteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\fabricteam\\standartteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\fabricteam\\proteamcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\fabricteam\\proteamcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\fabricteam\\proteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\fabricteam\\proteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\fabricteam\\iteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\fabricteam\\iteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\fabricteam\\abstractteamdistributor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\fabricteam\\abstractteamdistributor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\decorator\\welder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\decorator\\welder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\decorator\\volunteermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\decorator\\volunteermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\decorator\\volunteerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\decorator\\volunteerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\decorator\\plumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\decorator\\plumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\decorator\\handyman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\decorator\\handyman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\decorator\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\decorator\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\decorator\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\decorator\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\decorator\\abstractvolunteermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\decorator\\abstractvolunteermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\dbclasses\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\dbclasses\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\builderpattern\\builderfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\builderpattern\\builderfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\abstractfactory\\buildingofnewhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\abstractfactory\\buildingofnewhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\abstractfactory\\buildingofmodulhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\abstractfactory\\buildingofmodulhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\abstractfactory\\abstractreconstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\abstractfactory\\abstractreconstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\template\\buildalgoritm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\template\\buildalgoritm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\template\\repairalorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\template\\repairalorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\template\\abstractworkalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\template\\abstractworkalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\mediator\\workmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\mediator\\workmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\mediator\\repairingofhousemedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\mediator\\repairingofhousemedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\mediator\\buildingofmodulehousemedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\mediator\\buildingofmodulehousemedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\mediator\\baseworkdistributor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\mediator\\baseworkdistributor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\houses\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\houses\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\houses\\ihouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\houses\\ihouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\builderpattern\\modulehousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\builderpattern\\modulehousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\builderpattern\\ihousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\builderpattern\\ihousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\builderpattern\\newhousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\builderpattern\\newhousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\mediator\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\mediator\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\mediator\\buildingofnewhousemedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\mediator\\buildingofnewhousemedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\dovolunteerjobwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\dovolunteerjobwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\volunteerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\volunteerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\dovolunteerjobwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\dovolunteerjobwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\objectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\objectwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\volunteerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\volunteerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\objectwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\objectwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\teamwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\teamwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\teamwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\teamwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\coursewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E728B-A138-470E-BF72-8E5A60D815AB}|courseWpf\\courseWpf.csproj|solutionrelative:coursewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 15,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Welder.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\Welder.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Decorator\\Welder.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\Welder.cs",
+              "RelativeToolTip": "courseWpf\\Decorator\\Welder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T08:41:40.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbstractTeamDistributor.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\FabricTeam\\AbstractTeamDistributor.cs",
+              "RelativeDocumentMoniker": "courseWpf\\FabricTeam\\AbstractTeamDistributor.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\FabricTeam\\AbstractTeamDistributor.cs",
+              "RelativeToolTip": "courseWpf\\FabricTeam\\AbstractTeamDistributor.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-08T20:18:57.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITeam.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\FabricTeam\\ITeam.cs",
+              "RelativeDocumentMoniker": "courseWpf\\FabricTeam\\ITeam.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\FabricTeam\\ITeam.cs",
+              "RelativeToolTip": "courseWpf\\FabricTeam\\ITeam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-09T18:00:55.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProTeam.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\FabricTeam\\ProTeam.cs",
+              "RelativeDocumentMoniker": "courseWpf\\FabricTeam\\ProTeam.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\FabricTeam\\ProTeam.cs",
+              "RelativeToolTip": "courseWpf\\FabricTeam\\ProTeam.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-09T18:04:35.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProTeamCreator.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\FabricTeam\\ProTeamCreator.cs",
+              "RelativeDocumentMoniker": "courseWpf\\FabricTeam\\ProTeamCreator.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\FabricTeam\\ProTeamCreator.cs",
+              "RelativeToolTip": "courseWpf\\FabricTeam\\ProTeamCreator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-09T18:06:01.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StandartTeam.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\FabricTeam\\StandartTeam.cs",
+              "RelativeDocumentMoniker": "courseWpf\\FabricTeam\\StandartTeam.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\FabricTeam\\StandartTeam.cs",
+              "RelativeToolTip": "courseWpf\\FabricTeam\\StandartTeam.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T16:03:09.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StandartTeamCreator.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\FabricTeam\\StandartTeamCreator.cs",
+              "RelativeDocumentMoniker": "courseWpf\\FabricTeam\\StandartTeamCreator.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\FabricTeam\\StandartTeamCreator.cs",
+              "RelativeToolTip": "courseWpf\\FabricTeam\\StandartTeamCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T16:04:21.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VolunteerMain.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\VolunteerMain.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Decorator\\VolunteerMain.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\VolunteerMain.cs",
+              "RelativeToolTip": "courseWpf\\Decorator\\VolunteerMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T08:39:28.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VolunteerDecorator.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\VolunteerDecorator.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Decorator\\VolunteerDecorator.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\VolunteerDecorator.cs",
+              "RelativeToolTip": "courseWpf\\Decorator\\VolunteerDecorator.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T08:37:16.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Plumber.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\Plumber.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Decorator\\Plumber.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\Plumber.cs",
+              "RelativeToolTip": "courseWpf\\Decorator\\Plumber.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T08:41:02.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Handyman.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\Handyman.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Decorator\\Handyman.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\Handyman.cs",
+              "RelativeToolTip": "courseWpf\\Decorator\\Handyman.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T09:43:07.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Engineer.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\Engineer.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Decorator\\Engineer.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\Engineer.cs",
+              "RelativeToolTip": "courseWpf\\Decorator\\Engineer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T08:40:38.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\Builder.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Decorator\\Builder.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\Builder.cs",
+              "RelativeToolTip": "courseWpf\\Decorator\\Builder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T08:40:08.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AbstractVolunteerMain.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\AbstractVolunteerMain.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Decorator\\AbstractVolunteerMain.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Decorator\\AbstractVolunteerMain.cs",
+              "RelativeToolTip": "courseWpf\\Decorator\\AbstractVolunteerMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T08:36:36.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbClass.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\DBClasses\\DbClass.cs",
+              "RelativeDocumentMoniker": "courseWpf\\DBClasses\\DbClass.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\DBClasses\\DbClass.cs",
+              "RelativeToolTip": "courseWpf\\DBClasses\\DbClass.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-05T12:14:06.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuilderFunc.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\BuilderPattern\\BuilderFunc.cs",
+              "RelativeDocumentMoniker": "courseWpf\\BuilderPattern\\BuilderFunc.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\BuilderPattern\\BuilderFunc.cs",
+              "RelativeToolTip": "courseWpf\\BuilderPattern\\BuilderFunc.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwCwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-08T16:36:28.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BuildingOfNewHouse.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\AbstractFactory\\BuildingOfNewHouse.cs",
+              "RelativeDocumentMoniker": "courseWpf\\AbstractFactory\\BuildingOfNewHouse.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\AbstractFactory\\BuildingOfNewHouse.cs",
+              "RelativeToolTip": "courseWpf\\AbstractFactory\\BuildingOfNewHouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-08T16:48:26.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BuildingOfModulHouse.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\AbstractFactory\\BuildingOfModulHouse.cs",
+              "RelativeDocumentMoniker": "courseWpf\\AbstractFactory\\BuildingOfModulHouse.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\AbstractFactory\\BuildingOfModulHouse.cs",
+              "RelativeToolTip": "courseWpf\\AbstractFactory\\BuildingOfModulHouse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-07T17:11:57.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AbstractReconstruction.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\AbstractFactory\\AbstractReconstruction.cs",
+              "RelativeDocumentMoniker": "courseWpf\\AbstractFactory\\AbstractReconstruction.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\AbstractFactory\\AbstractReconstruction.cs",
+              "RelativeToolTip": "courseWpf\\AbstractFactory\\AbstractReconstruction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-07T17:11:55.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WorkMediator.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Mediator\\WorkMediator.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Mediator\\WorkMediator.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Mediator\\WorkMediator.cs",
+              "RelativeToolTip": "courseWpf\\Mediator\\WorkMediator.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA9wBcAAAAbAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-07T15:38:17.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RepairAlorithm.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Template\\RepairAlorithm.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Template\\RepairAlorithm.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Template\\RepairAlorithm.cs",
+              "RelativeToolTip": "courseWpf\\Template\\RepairAlorithm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-07T12:43:37.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BuildAlgoritm.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Template\\BuildAlgoritm.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Template\\BuildAlgoritm.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Template\\BuildAlgoritm.cs",
+              "RelativeToolTip": "courseWpf\\Template\\BuildAlgoritm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-07T12:57:33.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AbstractWorkAlgorithm.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Template\\AbstractWorkAlgorithm.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Template\\AbstractWorkAlgorithm.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Template\\AbstractWorkAlgorithm.cs",
+              "RelativeToolTip": "courseWpf\\Template\\AbstractWorkAlgorithm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABNAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-07T12:35:33.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RepairingOfHouseMedia.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Mediator\\RepairingOfHouseMedia.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Mediator\\RepairingOfHouseMedia.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Mediator\\RepairingOfHouseMedia.cs",
+              "RelativeToolTip": "courseWpf\\Mediator\\RepairingOfHouseMedia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-07T08:39:46.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BuildingOfModuleHouseMedia.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Mediator\\BuildingOfModuleHouseMedia.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Mediator\\BuildingOfModuleHouseMedia.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Mediator\\BuildingOfModuleHouseMedia.cs",
+              "RelativeToolTip": "courseWpf\\Mediator\\BuildingOfModuleHouseMedia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-07T13:24:08.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseWorkDistributor.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Mediator\\BaseWorkDistributor.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Mediator\\BaseWorkDistributor.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Mediator\\BaseWorkDistributor.cs",
+              "RelativeToolTip": "courseWpf\\Mediator\\BaseWorkDistributor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-07T08:16:57.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "House.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Houses\\House.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Houses\\House.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Houses\\House.cs",
+              "RelativeToolTip": "courseWpf\\Houses\\House.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBUAAAAUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-06T15:57:40.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IHouse.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Houses\\IHouse.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Houses\\IHouse.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Houses\\IHouse.cs",
+              "RelativeToolTip": "courseWpf\\Houses\\IHouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-09T11:26:27.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ModuleHouseBuilder.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\BuilderPattern\\ModuleHouseBuilder.cs",
+              "RelativeDocumentMoniker": "courseWpf\\BuilderPattern\\ModuleHouseBuilder.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\BuilderPattern\\ModuleHouseBuilder.cs",
+              "RelativeToolTip": "courseWpf\\BuilderPattern\\ModuleHouseBuilder.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCUAAABOAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-08T16:36:33.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IHouseBuilder.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\BuilderPattern\\IHouseBuilder.cs",
+              "RelativeDocumentMoniker": "courseWpf\\BuilderPattern\\IHouseBuilder.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\BuilderPattern\\IHouseBuilder.cs",
+              "RelativeToolTip": "courseWpf\\BuilderPattern\\IHouseBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-08T16:36:31.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NewHouseBuilder.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\BuilderPattern\\NewHouseBuilder.cs",
+              "RelativeDocumentMoniker": "courseWpf\\BuilderPattern\\NewHouseBuilder.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\BuilderPattern\\NewHouseBuilder.cs",
+              "RelativeToolTip": "courseWpf\\BuilderPattern\\NewHouseBuilder.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-08T16:36:36.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IMediator.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Mediator\\IMediator.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Mediator\\IMediator.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Mediator\\IMediator.cs",
+              "RelativeToolTip": "courseWpf\\Mediator\\IMediator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAyAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-07T08:10:43.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BuildingOfNewHouseMedia.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Mediator\\BuildingOfNewHouseMedia.cs",
+              "RelativeDocumentMoniker": "courseWpf\\Mediator\\BuildingOfNewHouseMedia.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\Mediator\\BuildingOfNewHouseMedia.cs",
+              "RelativeToolTip": "courseWpf\\Mediator\\BuildingOfNewHouseMedia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2023-06-07T08:19:23.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DoVolunteerJobWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\DoVolunteerJobWindow.xaml.cs",
+              "RelativeDocumentMoniker": "courseWpf\\DoVolunteerJobWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\DoVolunteerJobWindow.xaml.cs",
+              "RelativeToolTip": "courseWpf\\DoVolunteerJobWindow.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwEIAAAARAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH9SURBVDhP7ZRBiBJRAIZ/x9HZVRvTgbVSWKLXxjJChy1JklgIEmLx4C0hOobH7rFE56CrLOzFQ908KFFzCEYC5xKdbG8dBJWGBbdxUldn5k0nh6cgCO2hQx/M4Z/vfz8zcxgfGF7XTg42eL6xezUMP\u002BcWHu\u002BlGqxfB44NuwkRV6ICjr/8xPfe5OXHb70nrF8HH54qr\u002BZBToZvytfCpc8nZ3hwK4qHO5vqNv3RrFar3gGe50EIQaFQMKfT6VEulzM9CYCH69ubB304S2zwHM5tilPTgsCH9\u002BOR\u002BL4sy96BwWCA8XiMTqczSCQSp5qmKdlsVp97n9cE8OFr98A8dxpvPnVRureFvBzFVsSH2WzmdRRFgaIoEEURxWIRkUjkWSwWq6XT6d9Y/obt3hi9XzO8eJRCPh2FFAIsy2IrAADXdWGaJmq1GnRdfzuZTJ7P3cJgJmkjkwQy1zdxWXDhUgeu67IVD0ophsMhNE2L1\u002Bv1S/P7frZ0/87tndGZXrqxnQLv50ApZbWHJEkghIAQgn6/j26322y32yqWn1BVVbRaLYxGo5VjhBDk83nvkiQJtm17fmHQcRxYlrXyNddhYfAi\u002BD/49/z7gzwbgsEgOI5Ds9mEIAisWolhGAiFQl5e\u002BNuUy\u002BW7lNJDwzDgOA6rViKKIgKBwPtKpfJu2V0IfwDhDrtncQ2YqQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-06T08:20:13.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "VolunteerWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\VolunteerWindow.xaml",
+              "RelativeDocumentMoniker": "courseWpf\\VolunteerWindow.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\VolunteerWindow.xaml",
+              "RelativeToolTip": "courseWpf\\VolunteerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-05T13:26:42.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DoVolunteerJobWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\DoVolunteerJobWindow.xaml",
+              "RelativeDocumentMoniker": "courseWpf\\DoVolunteerJobWindow.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\DoVolunteerJobWindow.xaml",
+              "RelativeToolTip": "courseWpf\\DoVolunteerJobWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-07T14:52:15.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TeamWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\TeamWindow.xaml",
+              "RelativeDocumentMoniker": "courseWpf\\TeamWindow.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\TeamWindow.xaml",
+              "RelativeToolTip": "courseWpf\\TeamWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-05T19:50:19.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "courseWpf\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\MainWindow.xaml",
+              "RelativeToolTip": "courseWpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-05T11:55:37.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "courseWpf\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "courseWpf\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA3wDoAAAAXAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH9SURBVDhP7ZRBiBJRAIZ/x9HZVRvTgbVSWKLXxjJChy1JklgIEmLx4C0hOobH7rFE56CrLOzFQ908KFFzCEYC5xKdbG8dBJWGBbdxUldn5k0nh6cgCO2hQx/M4Z/vfz8zcxgfGF7XTg42eL6xezUMP\u002BcWHu\u002BlGqxfB44NuwkRV6ICjr/8xPfe5OXHb70nrF8HH54qr\u002BZBToZvytfCpc8nZ3hwK4qHO5vqNv3RrFar3gGe50EIQaFQMKfT6VEulzM9CYCH69ubB304S2zwHM5tilPTgsCH9\u002BOR\u002BL4sy96BwWCA8XiMTqczSCQSp5qmKdlsVp97n9cE8OFr98A8dxpvPnVRureFvBzFVsSH2WzmdRRFgaIoEEURxWIRkUjkWSwWq6XT6d9Y/obt3hi9XzO8eJRCPh2FFAIsy2IrAADXdWGaJmq1GnRdfzuZTJ7P3cJgJmkjkwQy1zdxWXDhUgeu67IVD0ophsMhNE2L1\u002Bv1S/P7frZ0/87tndGZXrqxnQLv50ApZbWHJEkghIAQgn6/j26322y32yqWn1BVVbRaLYxGo5VjhBDk83nvkiQJtm17fmHQcRxYlrXyNddhYfAi\u002BD/49/z7gzwbgsEgOI5Ds9mEIAisWolhGAiFQl5e\u002BNuUy\u002BW7lNJDwzDgOA6rViKKIgKBwPtKpfJu2V0IfwDhDrtncQ2YqQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-05T11:55:36.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ObjectWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\ObjectWindow.xaml.cs",
+              "RelativeDocumentMoniker": "courseWpf\\ObjectWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\ObjectWindow.xaml.cs",
+              "RelativeToolTip": "courseWpf\\ObjectWindow.xaml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwBYAAAArAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH9SURBVDhP7ZRBiBJRAIZ/x9HZVRvTgbVSWKLXxjJChy1JklgIEmLx4C0hOobH7rFE56CrLOzFQ908KFFzCEYC5xKdbG8dBJWGBbdxUldn5k0nh6cgCO2hQx/M4Z/vfz8zcxgfGF7XTg42eL6xezUMP\u002BcWHu\u002BlGqxfB44NuwkRV6ICjr/8xPfe5OXHb70nrF8HH54qr\u002BZBToZvytfCpc8nZ3hwK4qHO5vqNv3RrFar3gGe50EIQaFQMKfT6VEulzM9CYCH69ubB304S2zwHM5tilPTgsCH9\u002BOR\u002BL4sy96BwWCA8XiMTqczSCQSp5qmKdlsVp97n9cE8OFr98A8dxpvPnVRureFvBzFVsSH2WzmdRRFgaIoEEURxWIRkUjkWSwWq6XT6d9Y/obt3hi9XzO8eJRCPh2FFAIsy2IrAADXdWGaJmq1GnRdfzuZTJ7P3cJgJmkjkwQy1zdxWXDhUgeu67IVD0ophsMhNE2L1\u002Bv1S/P7frZ0/87tndGZXrqxnQLv50ApZbWHJEkghIAQgn6/j26322y32yqWn1BVVbRaLYxGo5VjhBDk83nvkiQJtm17fmHQcRxYlrXyNddhYfAi\u002BD/49/z7gzwbgsEgOI5Ds9mEIAisWolhGAiFQl5e\u002BNuUy\u002BW7lNJDwzDgOA6rViKKIgKBwPtKpfJu2V0IfwDhDrtncQ2YqQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-05T19:17:29.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "VolunteerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\VolunteerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "courseWpf\\VolunteerWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\VolunteerWindow.xaml.cs",
+              "RelativeToolTip": "courseWpf\\VolunteerWindow.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBYAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH9SURBVDhP7ZRBiBJRAIZ/x9HZVRvTgbVSWKLXxjJChy1JklgIEmLx4C0hOobH7rFE56CrLOzFQ908KFFzCEYC5xKdbG8dBJWGBbdxUldn5k0nh6cgCO2hQx/M4Z/vfz8zcxgfGF7XTg42eL6xezUMP\u002BcWHu\u002BlGqxfB44NuwkRV6ICjr/8xPfe5OXHb70nrF8HH54qr\u002BZBToZvytfCpc8nZ3hwK4qHO5vqNv3RrFar3gGe50EIQaFQMKfT6VEulzM9CYCH69ubB304S2zwHM5tilPTgsCH9\u002BOR\u002BL4sy96BwWCA8XiMTqczSCQSp5qmKdlsVp97n9cE8OFr98A8dxpvPnVRureFvBzFVsSH2WzmdRRFgaIoEEURxWIRkUjkWSwWq6XT6d9Y/obt3hi9XzO8eJRCPh2FFAIsy2IrAADXdWGaJmq1GnRdfzuZTJ7P3cJgJmkjkwQy1zdxWXDhUgeu67IVD0ophsMhNE2L1\u002Bv1S/P7frZ0/87tndGZXrqxnQLv50ApZbWHJEkghIAQgn6/j26322y32yqWn1BVVbRaLYxGo5VjhBDk83nvkiQJtm17fmHQcRxYlrXyNddhYfAi\u002BD/49/z7gzwbgsEgOI5Ds9mEIAisWolhGAiFQl5e\u002BNuUy\u002BW7lNJDwzDgOA6rViKKIgKBwPtKpfJu2V0IfwDhDrtncQ2YqQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-06T08:03:53.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\App.config",
+              "RelativeDocumentMoniker": "courseWpf\\App.config",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\App.config",
+              "RelativeToolTip": "courseWpf\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALDSURBVDhPrZNNSBtRFIXPvGRG00kCyRCl3WmsmxmIIm2WLYgISiOiCIZCNuLCXSsusigVujV0nS4lS6WL\u002BpdFgigixsIIIpEshJhsYtSYmF8mb6arDBqtVekHFx7v3nt43Hse8J9hGoeZmZnJarU6eX19fbuiCZZl0dXVhZGRkVxLS8snSZIub\u002BZ1QZ/PNy8IwldJkm7m73BycoJcLgdJkoqiKAatVuuPnp6eRCNvbBzK5TI6OjowODioN99HOBxGOBxGLBYzm83mWYfDUd7b2wu53e4EAJDmhsegaRpKpRLW19eRzWa/UEqnr66u7HiuYIN6vY7NzU2k0\u002BlplmW/4zmCvb29mJqa0kMQBFBKLQBuv3BoaAhutxutra3gOA4GgwEMo\u002B9Mp62tDaIo6sHzPDRN0/MEALLZ7Bun0/maYRjIsoxkMolarQZCyL2iD0HOzs5eqqo6e3R05FlYWIDf78fi4iKSySRUVQUhT5sKUVX1N8MwP10uV3B8fByKoiASiWB5eRnxeBxGo\u002B6sR0ECgcCr7e3tzzzPFyuVyjdRFEEphSzLOD09hcFgaO55ELKzs4NoNPp2aWnp3eHhofP8/ByUUuTzeZTL5afP0Gq1IhaLYXd3930mk/EmEgnU63UQQqCqKiilTxIl/f39EAQBqVQKx8fHIITo2y0UCri4uPirhe6DeL1ejI6OwuVywWazwWazweFwoFqtYm1tDaFQCIqiPFqUmEwmj8lk8nAc5wHg6ezs9M3NzV329fWhUqlga2sLwWAQuVwODMP800ZGu93\u002B6\u002BbF6uqquVarOUql0jTHcd2yLCMajYLneQwPD6NYLCIej\u002Bv1\u002BXz\u002BlrXumKy9vb0IIJBOp18A\u002BKgoSvfBwQEikQhEUdwvFAqZjY0N/btZLBawLAtN0/abte6QSqXmV1ZWtIGBAW1sbEybmJj40FzTzB\u002BOGSI5JRp1MAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-05T13:21:29.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TeamWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\TeamWindow.xaml.cs",
+              "RelativeDocumentMoniker": "courseWpf\\TeamWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\TeamWindow.xaml.cs",
+              "RelativeToolTip": "courseWpf\\TeamWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBYAAAAoAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH9SURBVDhP7ZRBiBJRAIZ/x9HZVRvTgbVSWKLXxjJChy1JklgIEmLx4C0hOobH7rFE56CrLOzFQ908KFFzCEYC5xKdbG8dBJWGBbdxUldn5k0nh6cgCO2hQx/M4Z/vfz8zcxgfGF7XTg42eL6xezUMP\u002BcWHu\u002BlGqxfB44NuwkRV6ICjr/8xPfe5OXHb70nrF8HH54qr\u002BZBToZvytfCpc8nZ3hwK4qHO5vqNv3RrFar3gGe50EIQaFQMKfT6VEulzM9CYCH69ubB304S2zwHM5tilPTgsCH9\u002BOR\u002BL4sy96BwWCA8XiMTqczSCQSp5qmKdlsVp97n9cE8OFr98A8dxpvPnVRureFvBzFVsSH2WzmdRRFgaIoEEURxWIRkUjkWSwWq6XT6d9Y/obt3hi9XzO8eJRCPh2FFAIsy2IrAADXdWGaJmq1GnRdfzuZTJ7P3cJgJmkjkwQy1zdxWXDhUgeu67IVD0ophsMhNE2L1\u002Bv1S/P7frZ0/87tndGZXrqxnQLv50ApZbWHJEkghIAQgn6/j26322y32yqWn1BVVbRaLYxGo5VjhBDk83nvkiQJtm17fmHQcRxYlrXyNddhYfAi\u002BD/49/z7gzwbgsEgOI5Ds9mEIAisWolhGAiFQl5e\u002BNuUy\u002BW7lNJDwzDgOA6rViKKIgKBwPtKpfJu2V0IfwDhDrtncQ2YqQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-06-05T14:25:21.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ObjectWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\ObjectWindow.xaml",
+              "RelativeDocumentMoniker": "courseWpf\\ObjectWindow.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\coursework\\courseWpf\\courseWpf\\ObjectWindow.xaml",
+              "RelativeToolTip": "courseWpf\\ObjectWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-06-06T08:08:05.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

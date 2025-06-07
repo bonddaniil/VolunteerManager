@@ -1,0 +1,24 @@
+﻿<Window x:Class="courseWpf.ObjectWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:courseWpf"
+        mc:Ignorable="d"
+        Title="ObjectWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="ObjectDG" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,0,419,228"/>
+        <Label Content="Додати об'єкт" HorizontalAlignment="Left" Margin="597,10,0,0" VerticalAlignment="Top" Width="139"/>
+        <TextBox x:Name="IdAdd" HorizontalAlignment="Left" Margin="597,41,0,0" TextWrapping="Wrap" Text="Введіть id об'єкта" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TownAdd" HorizontalAlignment="Left" Margin="597,91,0,0" TextWrapping="Wrap" Text="Введіть місто" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="StreetAdd" HorizontalAlignment="Left" Margin="597,114,0,0" TextWrapping="Wrap" Text="Введіть вулицю" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="NumberOfHouseAdd" HorizontalAlignment="Left" Margin="597,137,0,0" TextWrapping="Wrap" Text="Введіть номер будинку" VerticalAlignment="Top" Width="139"/>
+        <Button x:Name="AddObject" Content="Додати об'єкт" HorizontalAlignment="Left" Margin="597,185,0,0" VerticalAlignment="Top" Width="120" Height="35" Click="AddObject_Click"/>
+        <TextBox x:Name="AddDwelling" HorizontalAlignment="Left" Margin="597,64,0,0" TextWrapping="Wrap" Text="Введіть житлову площу (м^2)" VerticalAlignment="Top" Width="175"/>
+        <Label Content="Видалити об'єкт" HorizontalAlignment="Left" Margin="426,10,0,0" VerticalAlignment="Top" Width="131"/>
+        <TextBox x:Name="DeleteObject" HorizontalAlignment="Left" Margin="426,41,0,0" TextWrapping="Wrap" Text="Введіть id об'єкта" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="DeleteObjectButton" Content="Видалити об'єкт" HorizontalAlignment="Left" Margin="426,81,0,0" VerticalAlignment="Top" Width="120" Height="35" Click="DeleteObjectButton_Click"/>
+        <Button x:Name="ToMenuButton" Content="У меню" HorizontalAlignment="Left" Margin="597,337,0,0" VerticalAlignment="Top" Height="41" Width="120" Click="ToMenuButton_Click"/>
+
+    </Grid>
+</Window>
