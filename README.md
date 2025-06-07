@@ -15,7 +15,7 @@ The application allows users to manage volunteers, volunteer teams, buildings, a
 - Simulate volunteer work on selected buildings
 - Graphical user interface (GUI) built with WPF
 
-## 🛠️ Design Patterns Used
+##  Design Patterns Used
 
 - **Abstract Factory:** For creating families of related or dependent objects.
 - **Builder:** For step-by-step construction of complex objects (buildings).
@@ -42,7 +42,7 @@ The system is divided into the following modules:
 - C# support in your development environment (e.g. Visual Studio)
 - SQL Server (created using Microsoft SQL Management Studio)
 
-## 💡 Getting Started
+##  Getting Started
 
 1. Clone the repository:
    ```bash
